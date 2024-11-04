@@ -138,6 +138,7 @@ fun Birth(m: Modifier){
                         }
                     }
                 }
+
             }) {
                 Text("查詢資料")
             }
